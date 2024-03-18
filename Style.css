@@ -1,0 +1,43 @@
+#GitForm{
+    height: 35em;
+    width: 30em;
+    border: 2px solid black;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+#Git1{
+    border: 1px solid rgb(192, 46, 46);
+    width: 27em;
+   margin-left: 4.2%;
+}
+#Heading2{
+    text-align: center;
+}
+#Heading4{
+    text-align: center;
+    margin-top: -.7em;
+}
+.container{
+    margin-top:4%;
+    margin-left: 2%;
+}
+#Label1{
+    margin-right: 1em;
+    font-size: larger;
+    display: inline;
+}
+#Input1{
+width: 20em;
+
+}
+#L2{
+     display: block;
+    margin-top: .9em;
+    font-size: larger;
+    margin-right: 1em;
+
+
+}
+#I2{
+    display:inline;
+}
